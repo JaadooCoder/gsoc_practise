@@ -15,3 +15,5 @@ cd(the path to these files)
 g++ hello.cpp -o hello - launches the g++ compiler for c++ to compile the program named hello.cpp and save the output in a executable file named "hello".
 ./hello - in the same directory, executes the file named hello.
 C++ is a compiler language hence the execution process occurs in two steps, the first step is the compilation which produces an executable file. The 2nd stage is executing the executable, which gives the output in the terminal itself!
+
+Adding this from Github...
